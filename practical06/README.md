@@ -1,0 +1,1 @@
+This folder has C files for practical 6. Step 6 folder has the files for that step.
